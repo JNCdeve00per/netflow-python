@@ -1,0 +1,8 @@
+{
+  "listen_ip": "0.0.0.0",
+  "listen_port": 9995,
+  "influx_url": "http://localhost:8086",
+  "influx_token": "tu-token-de-influxdb-aqui",
+  "influx_org": "tu-organizacion",
+  "influx_bucket": "netflow"
+}
